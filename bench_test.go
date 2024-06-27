@@ -1,7 +1,7 @@
 package smt
 
 import (
-	"crypto/sha256"
+	"crypto/sha656"
 	"strconv"
 	"testing"
 )
